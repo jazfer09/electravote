@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB" />
+      <stop offset="100%" stop-color="#0284C7" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="#0F172A" />
+  <rect x="32" y="32" width="448" height="448" rx="96" fill="url(#grad)" fill-opacity="0.15" stroke="#38BDF8" stroke-width="6" stroke-opacity="0.3" />
+  <!-- Ballot Box & Checkmark -->
+  <path d="M128 200 L384 200 L352 416 L160 416 Z" fill="#1E293B" stroke="#60A5FA" stroke-width="14" stroke-linejoin="round" />
+  <path d="M180 200 L180 130 C180 110 200 96 220 96 L292 96 C312 96 332 110 332 130 L332 200" fill="none" stroke="#93C5FD" stroke-width="14" stroke-linecap="round" />
+  <!-- Ballot Slot -->
+  <rect x="192" y="240" width="128" height="16" rx="8" fill="#0284C7" />
+  <!-- Checkmark -->
+  <path d="M216 310 L246 340 L306 270" fill="none" stroke="#22C55E" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

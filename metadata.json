@@ -1,0 +1,6 @@
+{
+  "name": "ElectraVote Pro - Secure PWA Voting Portal",
+  "description": "Enterprise-grade real-time progressive web app voting portal with multi-factor authentication, role-based access control, cryptographic ballot hashing, and live turnout dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
